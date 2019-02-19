@@ -1,0 +1,32 @@
+import java.util.Scanner;
+import java.util.Random;
+
+  public class one {
+  public static void main(Str[] args){
+    int row;
+    System.out.println("Number of rows: ");
+    row = Scanner.nextInt();
+    int column;
+    column = Scanner.nextInt();
+    
+    m = new Arraylist<Integer>();
+    row1 = new Arraylist<row>();
+    column1 = new Arraylist<column>();
+    
+    for (i = column1.length; i != 0; i--){
+      Random rand = new Random()
+      int r = rand.nextInt(50) + (-50);
+      column[i] = r;
+    }
+    
+    for (i = row.length -1; i != 0; i--){
+      Random rand = new Random()
+      int r = rand.nextInt(50) + (-50);
+      row[i] = r;
+    }
+    m.add(row);
+    m.add(column);
+    System.out.println(m);
+  }
+  }
+  

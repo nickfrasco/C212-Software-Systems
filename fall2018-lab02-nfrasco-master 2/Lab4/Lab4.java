@@ -1,0 +1,64 @@
+public class Lab4 {
+  public static void main(String[] args) {
+    
+    // remember to write out how to do it in java 
+    // just like how I would type it in Java
+    // look at code in answer file for example
+    
+    //Q1 - ? 
+    //Q2 - ?
+    //Q3 - ?
+    //Q4 - ?
+    //Q5 - ?
+    
+    //Q6 - ?
+    //Q7 - ?
+    //Q8 - ?
+    //Q9 - ?
+    //Q10 - ?
+    //Q11 - ?
+    //Q12 - ?
+    //Q13 - ?
+    //Q14 - ?
+    //Q15 - ?
+    //Q16 - ?
+    
+    //Q17 - ?
+    //Q18 - ?
+    //Q19 - ?
+    //Q20 - 1/2
+    //Q21 - 1/2
+    //Q22 - ?
+    //Q23 - X
+    //Q24 - ?
+    //Q25 - ?
+    //Q26 - ?
+    //Q27 - ?
+    
+    //Q28 - X
+    //Q29 - X
+    //Q30 - ?
+    
+    //Q31 - ?
+    //Q32 - ?
+    //Q33 - ?
+    //Q34 - ?
+    //Q35 - ?
+    
+    //Q36 - ?
+    //Q37 - ?
+    //Q38 - ?
+    //Q39 - ?
+    
+    //Q40 - X
+    //Q41 - X
+    
+    // After evaluating this practice Exam, I believe I earned about an 85-87. 
+    // My reasoning: I think this because although I did get many core questions correct,
+    //               I made a few mistakes along the way. This is okay though, I learned from 
+    //               them. 
+    
+    System.out.println("\\\\\\\\".length());               // just practicing - one "\" is counted, next one is not
+    System.out.println("This\nis\nnot\nit!".length());     // more practice
+  }
+}
